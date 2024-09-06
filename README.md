@@ -1,5 +1,6 @@
-<<<<<<< HEAD
 # Omnifood Landing Page
+
+"A responsive HTML and CSS Landing page for Omnifood, a startup that uses AI to create and deliver personalized healthy meal plans.
 
 ## Project Overview
 
@@ -24,7 +25,3 @@ To view the website, simply clone this repository and open the `index.html` file
 ```bash
 git clone https://github.com/your-username/omnifood-website.git
 ```
-=======
-# omnifood-landing-page
-"A responsive HTML and CSS Landing page for Omnifood, a startup that uses AI to create and deliver personalized healthy meal plans.
->>>>>>> 53af045cd52b3fd9900e560e325a698cebc0156c
