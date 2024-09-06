@@ -1,0 +1,8 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore Thumbs.db (Windows)
+Thumbs.db
