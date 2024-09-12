@@ -23,5 +23,5 @@ Omnifood is a startup that uses AI to create personalized healthy meal plans and
 To view the website, simply clone this repository and open the `index.html` file in your browser.
 
 ```bash
-git clone https://github.com/your-username/omnifood-website.git
+git clone https://github.com/ibrahimabidi/omnifood-website.git
 ```
