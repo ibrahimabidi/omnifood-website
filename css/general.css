@@ -29,6 +29,8 @@ primary : #e67e22
 Tints :
 #fdf2e9
 #fae5d3
+#eb984e
+
 Shades : #cf711f
 Accents:
 Greys :
@@ -38,7 +40,7 @@ Greys :
 
 
 ----05 SHADOWS 
-
+rgba(0, 0, 0, 0.075)
 
 -----06 border-radius 
 Default : 9px
