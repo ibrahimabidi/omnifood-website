@@ -13,6 +13,7 @@ Semi-bold: 600
 Bold :700
 
 -Line heights :
+Large : 1.8
 Default: 1 
 small : 1.05
 medium : 1.2
@@ -243,6 +244,7 @@ body {
   display: flex;
   align-items: center;
   gap: 1.6rem;
+  line-height: 1.2;
 }
 
 .list-icon {
