@@ -1,0 +1,17 @@
+{
+  "name": "omnifood-website",
+  "version": "1.0.0",
+  "description": "\"A responsive HTML and CSS Landing page for Omnifood, a startup that uses AI to create and deliver personalized healthy meal plans.",
+  "main": "index.js",
+  "scripts": {
+    "test:chrome": "npx playwright test --headed --browser=chromium",
+    "test:firefox": "npx playwright test --headed --browser=firefox",
+    "test:safari": "npx playwright test --headed --browser=webkit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.47.1"
+  }
+}
