@@ -17,6 +17,7 @@ Omnifood is a startup that uses AI to create personalized healthy meal plans and
 
 - HTML5
 - CSS3
+- Javascript
 
 ## How to Use
 

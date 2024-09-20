@@ -9,3 +9,9 @@ node_modules/
 
 # Ignore Thumbs.db (Windows)
 Thumbs.db
+
+# Ignore test results folder
+test-results/
+
+# Ignore last-run.json file
+.last-run.json
